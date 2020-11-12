@@ -4,17 +4,17 @@
    "values":[
       {
          "key":"pfBaseURL",
-         "value":"https://cusmorg.ping-eng.com",
+         "value":"https://morg360.ping-eng.com",
          "enabled":true
       },
       {
          "key":"delegatorHost",
-         "value":"cusmorg.ping-eng.com",
+         "value":"morg360.ping-eng.com",
          "enabled":true
       },
       {
          "key":"paVirtualHost",
-         "value":"cusmorg.ping-eng.com",
+         "value":"morg360.ping-eng.com",
          "enabled":true
       },
       {

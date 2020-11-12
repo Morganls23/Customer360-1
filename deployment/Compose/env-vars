@@ -9,14 +9,14 @@ PD_LDAP_SERVICE=pingdirectory:389
 ##PF_USER_PWD=2FederateM0re
 # Configure PF for OIDC Admin SSO
 PF_ADMIN_MODE=OIDC
-PF_ADMIN_TITLE=cusmorgPF
+PF_ADMIN_TITLE=morg360PF
 
 # Used in OIDC `redirect_uri`
-PF_ADMIN_HOSTNAME=cusmorg.ping-eng.com
+PF_ADMIN_HOSTNAME=morg360.ping-eng.com
 # PF_ADMIN_PORT="443" ## This is if you can only get to PF Admin via 443
 
 # Used by PD DelAdmin Template
-PF_BASE_URL=https://cusmorg.ping-eng.com
+PF_BASE_URL=https://morg360.ping-eng.com
 
 #
 # PD User Base DN
@@ -55,19 +55,19 @@ ADMIN_CLIENT_LOGOFF=https://auth.pingone.com/230d257f-c803-4436-a852-760729a902a
 #
 # Delegator App (PD DelAdmin)
 #
-PD_DELEGATOR_PUBLIC_HOSTNAME=cusmorg.ping-eng.com
+PD_DELEGATOR_PUBLIC_HOSTNAME=morg360.ping-eng.com
 PD_DELEGATOR_HTTP_PORT=6080
 PD_DELEGATOR_HTTPS_PORT=6443
 PD_DELEGATOR_LOG_LEVEL=DEBUG
-PF_ENGINE_PUBLIC_HOSTNAME=cusmorg.ping-eng.com
+PF_ENGINE_PUBLIC_HOSTNAME=morg360.ping-eng.com
 
 PF_ENGINE_PUBLIC_PORT=
 PF_DELEGATOR_CLIENTID=Delegator
-PD_ENGINE_PUBLIC_HOSTNAME=cusmorg.ping-eng.com
+PD_ENGINE_PUBLIC_HOSTNAME=morg360.ping-eng.com
 PD_ENGINE_PUBLIC_PORT=443
 PF_USER_PWD=2FederateM0re
-PF_HOST=cusmorg.ping-eng.com
+PF_HOST=morg360.ping-eng.com
 PF_PORT=443
 
 # Delegated Admin app CORS
-DELEGATOR_CORS_URL=https://cusmorg.ping-eng.com
+DELEGATOR_CORS_URL=https://morg360.ping-eng.com
