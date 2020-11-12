@@ -4,17 +4,17 @@
    "values":[
       {
          "key":"pfBaseURL",
-         "value":"https://symplr.ping-eng.com",
+         "value":"https://cusmorg.ping-eng.com",
          "enabled":true
       },
       {
          "key":"delegatorHost",
-         "value":"symplr.ping-eng.com",
+         "value":"cusmorg.ping-eng.com",
          "enabled":true
       },
       {
          "key":"paVirtualHost",
-         "value":"symplr.ping-eng.com",
+         "value":"cusmorg.ping-eng.com",
          "enabled":true
       },
       {
